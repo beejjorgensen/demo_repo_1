@@ -3,7 +3,7 @@
 Hi there!
 
 LS(1)                       General Commands Manual                      LS(1)
-
+tibdubdfiub
 NAME
      ls – list directory contents
 
